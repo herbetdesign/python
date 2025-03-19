@@ -14,11 +14,3 @@ Antes de executar o script, certifique-se de ter o seguinte instalado:
 1. Python 3.x instalado no sistema.
 2. Bibliotecas padrão do Python (random e string) - não é necessário instalar bibliotecas adicionais.
 
-## Instalação
-Clone este repositório para sua máquina local:
-```
-git clone https://github.com/seu-usuario/gerador-de-senhas.git
-```
-
-
-
